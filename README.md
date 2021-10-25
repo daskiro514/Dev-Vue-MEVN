@@ -8,5 +8,7 @@ npm run build
 
 # Install
 npm install
+##
 cd ./client
+##
 npm install
